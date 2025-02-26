@@ -39,7 +39,7 @@ Or download it and add it by hand in your repository. In this dataset, you will 
 
 - `package_name`. Name of the mobile application (categorical)
 - `review`. Comment about the mobile application (categorical)
-- `polarity`. Class variable (0 or 1), being 0 a negative comment and 1, positive (numeric)
+- `polarity`. Class variable (0 or 1), being 0 a negative comment and 1, positive (categorical numeric)
 
 #### Step 2: Study of variables and their content
 
