@@ -38,7 +38,7 @@ O descargarlo y añadirlo a mano en tu repositorio. En este conjunto de datos en
 
 - `package_name`. Nombre de la aplicación móvil (categórico)
 - `review`. Comentario sobre la aplicación móvil (categórico)
-- `polarity`. Variable de clase (0 o 1), siendo 0 un comentario negativo y 1, positivo (numérico)
+- `polarity`. Variable de clase (0 o 1), siendo 0 un comentario negativo y 1, positivo (categórico numérico)
 
 #### Paso 2: Estudio de variables y su contenido
 
